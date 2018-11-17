@@ -1,2 +1,2 @@
-# HealthTechMais60
+# HealthTech
 health scritps to solve health problems
